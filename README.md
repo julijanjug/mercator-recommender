@@ -15,8 +15,8 @@ Data set is private.
 </ul>
 
 <h1>Baseline recommenders<h1>
-  <ul>
-    <li> F-score recomender 1: 0.084006</li>
-    <li> F-score recomender 2: 0.084659</li>
-    <li> F-score recomender 3: 00.101473</li>
-  </ul>
+<ul>
+<li> F-score recomender 1: 0.084006</li>
+<li> F-score recomender 2: 0.084659</li>
+<li> F-score recomender 3: 0.101473</li>
+</ul>
