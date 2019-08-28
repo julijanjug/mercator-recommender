@@ -14,7 +14,7 @@ Data set is private.
     <li> F-score 10 items letak: 0.143487</li>
 </ul>
 
-<h1>Baseline recommenders<h1>
+<h1>Baseline recommenders</h1>
 <ul>
 <li> F-score recomender 1: 0.084006</li>
 <li> F-score recomender 2: 0.084659</li>
